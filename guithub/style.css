@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(196, 193, 193);
+}
+.top-content{
+    background-color:rgb(20, 28, 46);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    height: 80px;
+}
+.title{
+    background-color: rgb(20, 28, 46);
+    color: white;
+    letter-spacing: 3px;
+    font-size: 30px;
+    text-align: center;
+    width: 100%;
+}
+.bi-github{
+    color: white;
+    background-color: rgb(20, 28, 46);
+    padding: 10px;
+}
+.mainbody{
+    display: flex;
+    width: 100%;
+}
+.repos{
+    width: 40%;
+}
+.body{
+    width: 60%;
+}
+.search-section{
+    padding: 10px;
+    align-items: center;    
+}
+.searchme{
+    padding: 10px;
+    width: 60%;
+    border-radius: 10px;
+    background-color: black;
+    font-size: 20px;
+    color: white;
+}
+.btn{
+    color: white;
+    background-color: black;
+    padding: 5px;    
+}
+.btn:hover{
+    background-color: rgb(10, 7, 7);
+}
+
